@@ -31,4 +31,20 @@ Concepts:    [REST APIs, Microservices, DSA, OOP, LSTM ML]
   <img src="https://github-readme-stats.vercel.app/api?username=bala2003rk&show_icons=true&theme=tokyonight" alt="Bala's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bala2003rk&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-🔗 <a href = "https://leetcode.com/u/Bala_rk_3/">LeetCode Profile</a>
+---
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bala2003rk&theme=tokyo-night" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <b>“Code. Teach. Inspire.”</b><br><br>
+  <a href="https://linkedin.com/in/balamurugan-rk-2003rk/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:muruganrajendran23@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
+  </a>
+   <a href = "https://leetcode.com/u/Bala_rk_3/">
+    <img src="https://img.shields.io/badge/LeetCode-yellow?logo=leetcode&logoColor=black" />
+  </a>
+</p>
