@@ -31,4 +31,4 @@ Concepts:    [REST APIs, Microservices, DSA, OOP, LSTM ML]
   <img src="https://github-readme-stats.vercel.app/api?username=bala2003rk&show_icons=true&theme=tokyonight" alt="Bala's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bala2003rk&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-🔗 <a href = "https://leetcode.com/bala2003rk/" style="none">LeetCode Profile</a>
+🔗 <a href = "https://leetcode.com/u/Bala_rk_3/">LeetCode Profile</a>
